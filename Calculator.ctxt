@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Calculator
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Calculator\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Calculator()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Calculator\r\n
+comment2.params=
+comment2.target=void\ makeFrame()
+comment2.text=\r\n\ This\ method\ is\ used\ to\ create\ the\ gui\ interface\ for\ the\ Calculator\r\n\r\n\ \r\n\ \r\n
+comment3.params=keyPad\ value\ type\ screen
+comment3.target=void\ createButton(java.awt.Container,\ java.lang.String,\ java.lang.String,\ javax.swing.JTextField)
+comment4.params=type\ screen\ value
+comment4.target=void\ calcButton(java.lang.String,\ javax.swing.JTextField,\ java.lang.String)
+comment5.params=screen
+comment5.target=void\ calculate(javax.swing.JTextField)
+comment6.params=calcArr
+comment6.target=int\ lastNum(java.lang.String[])
+numComments=7
